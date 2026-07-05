@@ -1,0 +1,42 @@
+{
+  "name": "Multi_LDMIC-mse",
+  "description": "Inference (entropy-estimation)",
+  "results": {
+    "psnr-float": [
+      22.038545608520508
+    ],
+    "ms-ssim-float": [
+      0.8239358067512512
+    ],
+    "bpp": [
+      0.5571793913841248
+    ],
+    "index0-psnr-float": [
+      22.039636611938477
+    ],
+    "index0-ms-ssim-float": [
+      0.8239624500274658
+    ],
+    "index0-bpp": [
+      0.5566513538360596
+    ],
+    "index1-psnr-float": [
+      22.03870391845703
+    ],
+    "index1-ms-ssim-float": [
+      0.8239420652389526
+    ],
+    "index1-bpp": [
+      0.55715012550354
+    ],
+    "index2-psnr-float": [
+      22.037296295166016
+    ],
+    "index2-ms-ssim-float": [
+      0.82390296459198
+    ],
+    "index2-bpp": [
+      0.5577366352081299
+    ]
+  }
+}
