@@ -1,0 +1,12 @@
+torch
+torchvision
+compressai
+pytorch-msssim
+numpy
+Pillow
+PyYAML
+wandb
+tqdm
+opencv-python
+matplotlib
+scipy
